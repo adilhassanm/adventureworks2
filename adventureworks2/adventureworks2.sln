@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adventureworks2.api", "adventureworks2.api\adventureworks2.api.csproj", "{B1BB7E2C-19B6-4BB9-A6DA-83CD2FCBA73A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1BB7E2C-19B6-4BB9-A6DA-83CD2FCBA73A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1BB7E2C-19B6-4BB9-A6DA-83CD2FCBA73A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1BB7E2C-19B6-4BB9-A6DA-83CD2FCBA73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1BB7E2C-19B6-4BB9-A6DA-83CD2FCBA73A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5818BCF8-62A5-4D12-BF91-5D9003529092}
+	EndGlobalSection
+EndGlobal
